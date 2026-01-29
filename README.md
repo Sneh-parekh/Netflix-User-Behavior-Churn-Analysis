@@ -9,7 +9,7 @@ This project demonstrates a complete real-world analytics workflow — from raw 
 ## 📸 Dashboard Preview
 
 ### 🔹 Executive Overview
-![Overview Dashboard](ScreenShots/Overview Dashboard.png)
+![Overview Dashboard](ScreenShots/Overview_Dashboard.png)
 
 ### 🔹 Churn Analysis
 ![Churn Analysis Dashboard](Screenshots/Churn Analysis.png)
