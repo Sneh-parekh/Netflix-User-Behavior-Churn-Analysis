@@ -128,7 +128,7 @@ Python was used to perform **deep behavioral analysis** and visualize trends.
 - seaborn
 
 📁 Notebook:
-- `Netflix_Data_Analysis.ipynb`
+- `Python/Netflix_Data_Analysis.ipynb`
 
 ---
 
