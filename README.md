@@ -8,14 +8,7 @@ This project demonstrates a complete real-world analytics workflow — from raw 
 
 ## 📸 Dashboard Preview
 
-### 🔹 Executive Overview
 ![Overview Dashboard](ScreenShots/Overview_Dashboard.png)
-
-### 🔹 Churn Analysis
-![Churn Analysis Dashboard](ScreenShots/Churn_Analysis_Dashboard.png)
-
-### 🔹 Revenue & Engagement Deep Dive
-![Revenue & Engagement Dashboard](ScreenShots/Engagement_Dashboard.png)
 
 ---
 
@@ -75,7 +68,7 @@ Excel was used as the **foundation layer** to ensure data accuracy before analys
 - Maintained a **data cleaning log & data dictionary**
 
 📁 Output Files:
-- `Netflix_Cleaned_Analytics_File.csv`
+- `Data/Netflix_Cleaned_Analytics_CSV.csv`
 
 ---
 
@@ -140,6 +133,9 @@ A **3-page interactive Power BI dashboard** designed for executives and recruite
 
 ### 📄 Page 1 — Executive Overview
 
+### 🔹 Executive Overview
+![Overview Dashboard](ScreenShots/Overview_Dashboard.png)
+
 **Purpose:**  
 Quick understanding of overall business health.
 
@@ -159,6 +155,9 @@ Quick understanding of overall business health.
 
 ### 📄 Page 2 — Churn Analysis
 
+### 🔹 Churn Analysis
+![Churn Analysis Dashboard](ScreenShots/Churn_Analysis_Dashboard.png)
+
 **Purpose:**  
 Identify churn drivers and revenue risk.
 
@@ -170,7 +169,10 @@ Identify churn drivers and revenue risk.
 
 ---
 
-### 📄 Page 3 — Revenue & Engagement Deep Dive
+### 📄 Page 3 — Engagement Deep Dive
+
+### 🔹 Engagement Deep Dive
+![Engagement Dashboard](ScreenShots/Engagement_Dashboard.png)
 
 **Purpose:**  
 Understand revenue flow and engagement quality.
