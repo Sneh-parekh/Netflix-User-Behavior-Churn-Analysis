@@ -97,7 +97,7 @@ SQL was used to answer **real business questions** and validate metrics at scale
 - Engagement by age group & genre
 
 📁 SQL File:
-- `Netflix_Database_SQL.sql`
+- `SQL/Netflix_Database_SQL.sql`
 
 ---
 
