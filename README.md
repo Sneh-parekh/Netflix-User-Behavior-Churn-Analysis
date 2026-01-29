@@ -9,13 +9,13 @@ This project demonstrates a complete real-world analytics workflow — from raw 
 ## 📸 Dashboard Preview
 
 ### 🔹 Executive Overview
-![Overview Dashboard](Screenshots/Overview_Dashboard.png)
+![Overview Dashboard](ScreenShots/Overview Dashboard.png)
 
 ### 🔹 Churn Analysis
-![Churn Analysis Dashboard](Screenshots/Churn_Analysis.png)
+![Churn Analysis Dashboard](Screenshots/Churn Analysis.png)
 
 ### 🔹 Revenue & Engagement Deep Dive
-![Revenue & Engagement Dashboard](Screenshots/Engagement_Dashboard.png)
+![Revenue & Engagement Dashboard](Screenshots/Engagement Dashboard.png)
 
 ---
 
