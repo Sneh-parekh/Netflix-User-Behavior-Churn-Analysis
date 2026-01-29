@@ -15,7 +15,7 @@ This project demonstrates a complete real-world analytics workflow — from raw 
 ![Churn Analysis Dashboard](ScreenShots/Churn_Analysis_Dashboard.png)
 
 ### 🔹 Revenue & Engagement Deep Dive
-![Revenue & Engagement Dashboard](Screenshots/Engagement Dashboard.png)
+![Revenue & Engagement Dashboard](ScreenShots/Engagement_Dashboard.png)
 
 ---
 
